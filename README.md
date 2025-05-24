@@ -34,7 +34,7 @@ This project analyzes restaurant data from 15 countries using Excel to uncover i
 
 🖥️ **Dashboard Highlights**
 
-![Streamlit App Screenshot](/Dashboard Screenshot.PNG)
+![Streamlit App Screenshot]("Dashboard_Screenshot".PNG)
 
 --Market Competition Column Chart
 
