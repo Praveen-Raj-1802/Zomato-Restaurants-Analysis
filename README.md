@@ -5,9 +5,7 @@ Exploring market competition, pricing trends, customer preferences, and service 
 
 **📌 Project Overview**
 
-This project analyzes restaurant data from 15 countries using Excel/Google Sheets to uncover insights about market competition, pricing, service models (like delivery and booking), and customer preferences.
-
-It was completed as part of a learning module at Newton School, under the guidance of mentors.
+This project analyzes restaurant data from 15 countries using Excel to uncover insights about market competition, pricing, service models (like delivery and booking), and customer preferences.
 
 
 **📊 Tools Used**
