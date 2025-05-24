@@ -53,9 +53,6 @@ It was completed as part of a learning module at Newton School, under the guidan
 --Custom Navigation: Home → Pivot Tables | Data → Raw Data
 
 
-📁 **Project Structure**
+**Repository Structure**
 
-📦 Restaurant-Analysis-Project
- ┣ 📊 Dashboard Screenshot.png
- ┣ 📂 Zomato_Restaurant_Analysis (CSV/Excel)
- ┗ 📄 README.md
+📁Restaurant-Analysis-Project|--📜 Dashboard Screenshot.png |--📜 Zomato_Restaurant_Analysis (CSV/Excel)|--📜 README.md
