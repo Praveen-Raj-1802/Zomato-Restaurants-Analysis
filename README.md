@@ -55,4 +55,4 @@ This project analyzes restaurant data from 15 countries using Excel to uncover i
 
 **Repository Structure**
 
-📁Restaurant-Analysis-Project|--📜 Dashboard Screenshot.png |--📜 Zomato_Restaurant_Analysis (CSV/Excel)|--📜 README.md
+📁Restaurant-Analysis-Project|--📜 Dashboard Screenshot.png |--📜 Zomato_Restaurant_Analysis (CSV/Excel) |--📜 Zomato_Restaurant_Analysis (PPTX) |--📜 README.md
